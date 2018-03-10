@@ -1,4 +1,5 @@
 ﻿# programming-fundamentals
+
 ### Problem 1.               
 Debit Card Number
 
@@ -12,60 +13,48 @@ examples below for the appropriate formatting.
 
 **Input**
 
- 
-
-**Output**
-
- 
-
 12
-
 433
-
 1
-
 5331
 
- 
+**Output**
 
 0012 0433 0001 5331
 
  
 
+**Input**
+
 9182
-
 4221
-
 12
-
 3
 
- 
+**Output**
 
 9182 4221 0012 0003
 
  
 
+**Input**
+
 812
-
 321
-
 123
-
 22
 
- 
+**Output**
 
 0812 0321 0123 0022
 
+ 
 
 ### Problem 2.               
 Rectangle Area
 
-Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers
-on the console, **formatted to the 2
-
-nd
+Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**.
+The **width** and **height** come as floating point numbers on the console, **formatted to the 2nd
 character after the decimal point**.
 
 #### Examples
@@ -74,51 +63,44 @@ character after the decimal point**.
 
 **Input**
 
- 
-
-**Output**
-
- 
-
 2
-
 7
 
- 
+**Output**
 
 14.00
 
  
 
-7
+**Input**
 
+7
 8
 
- 
+**Output**
 
 56.00
 
  
 
-12.33
+**Input**
 
+12.33
 5
 
- 
+**Output**
 
 61.65
 
-
+ 
 
 ### Problem 3.               
 Miles to Kilometers
 
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2nd
-
+Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2nd
 decimal place**.
 
-Note: **1
-mile == 1.60934 kilometers**
+Note: **1 mile == 1.60934 kilometers**
 
 #### Examples
 
@@ -126,59 +108,35 @@ mile == 1.60934 kilometers**
 
 **Input**
 
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
 60
 
- 
+**Output**
 
 96.56
 
- 
+  
+
+**Input**
 
 1
 
- 
+**Output**
 
 1.61
 
  
 
+**Input**
+
 52.1113
 
- 
+**Output**
 
 83.86
 
-#### Problem 4.
+ 
+
+### Problem 4.			
 Beverage Labels
 
 Write a program, which reads a food product **name, volume,
@@ -194,7 +152,9 @@ Energy content – **integer**, **suffixed** by “**kcal**” (e.g. “**500kca
 
 Sugar content – **real number**, **suffixed** by “**g**” (e.g. “**30g**”) 
 
-### Examples
+#### Examples
+
+ 
 
 **Input**
 
@@ -212,6 +172,8 @@ Nuka-Cola
 
 660kcal, 154g sugars
 
+ 
+
 **Input**
 
 Ice Cold Nuka-Cola
@@ -227,6 +189,8 @@ Ice Cold Nuka-Cola
 250ml Ice Cold Nuka-Cola:
 
 875kcal, 162.5g sugars
+
+ 
 
 **Input**
 
@@ -244,71 +208,5 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
-### Problem 3.               
-Miles to Kilometers
-
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
-
-nd
-decimal place**.
-
-Note: **1
-mile == 1.60934 kilometers**
-
-#### Examples
-
  
 
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
