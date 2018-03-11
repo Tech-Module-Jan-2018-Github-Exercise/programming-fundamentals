@@ -232,36 +232,21 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
-### Problem 5.               
+### Problem 5.               
+
 * Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
+
 their **name**, **current health**, **maximum
+
 health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 #### Examples
 
- 
+ 
 
 **Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
 
 Mayro
 
@@ -273,7 +258,7 @@ Mayro
 
 10
 
- 
+**Output**
 
 Name: Mayro
 
@@ -281,7 +266,7 @@ Health: ||||||.....|
 
 Energy: ||||||||||.|
 
- 
+**Input**
 
 Bauser
 
@@ -293,7 +278,7 @@ Bauser
 
 10
 
- 
+**Output** 
 
 Name: Bauser
 
@@ -301,29 +286,7 @@ Health: ||||||||||||
 
 Energy: ||||||||||||
 
- 
-
- 
-
 **Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
 
 Loogi
 
@@ -335,7 +298,7 @@ Loogi
 
 14
 
- 
+**Output** 
 
 Name: Loogi
 
@@ -343,7 +306,7 @@ Health: |||||||||............|
 
 Energy: |||............|
 
- 
+**Input** 
 
 Toad
 
@@ -355,7 +318,7 @@ Toad
 
 10
 
- 
+**Output** 
 
 Name: Toad
 
@@ -365,5 +328,6 @@ Energy: |..........|
 
 #### Hints
 
-·        
+       
+
 You can print a character **multiple** times, using new string(character, count).
