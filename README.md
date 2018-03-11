@@ -232,6 +232,8 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
+
+
 ### Problem 5.               
 
 * Character Stats
@@ -266,6 +268,8 @@ Health: ||||||.....|
 
 Energy: ||||||||||.|
 
+
+
 **Input**
 
 Bauser
@@ -279,6 +283,8 @@ Bauser
 10
 
 **Output** 
+
+
 
 Name: Bauser
 
@@ -305,6 +311,8 @@ Name: Loogi
 Health: |||||||||............|
 
 Energy: |||............|
+
+
 
 **Input** 
 
