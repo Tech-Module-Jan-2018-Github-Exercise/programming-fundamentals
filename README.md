@@ -232,7 +232,7 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
-###Problem 5.
+Problem 5.* Character Stats
 
 Character Stats
 
@@ -248,7 +248,7 @@ The **current** values will **always** be valid
 
 Print them in the format as per the examples.
 
-####Examples
+Examples
 
 **Input**
 
@@ -330,7 +330,7 @@ Health: |.....|
 
 Energy: |..........|
 
-####Hints
+Hints
 
 •You can print a character **multiple** times, 
 
