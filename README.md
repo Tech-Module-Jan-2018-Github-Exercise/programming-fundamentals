@@ -232,7 +232,7 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
-### Problem 1.               
+### Problem 5.               
 * Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
