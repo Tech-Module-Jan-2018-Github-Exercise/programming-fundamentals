@@ -68,9 +68,9 @@ Rectangle Area
 
 Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**.
 
-The **width** and **height** come as floating point numbers on the console, **formatted to the 2nd
+The **width** and **height** come as floating point numbers on the console, **formatted to the 2nd**
 
-character after the decimal point**.
+**character after the decimal point**.
 
 #### Examples
 
@@ -116,9 +116,9 @@ character after the decimal point**.
 
 Miles to Kilometers
 
-Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2nd
+Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2nd**
 
-decimal place**.
+**decimal place**.
 
 Note: **1 mile == 1.60934 kilometers**
 
@@ -160,9 +160,9 @@ Note: **1 mile == 1.60934 kilometers**
 
 Beverage Labels
 
-Write a program, which reads a food product **name, volume,
+Write a program, which reads a food product **name, volume,**
 
-energy content per 100ml** and **sugar content per 100ml**.
+**energy content per 100ml** and **sugar content per 100ml**.
 
 Calculate the **energy** and **sugar content** for the **given volume**
 
@@ -240,9 +240,9 @@ Nuka-Cola Quantum
 
 Write a program, which **displays information** about a video game character. You will receive
 
-their **name**, **current health**, **maximum
+their **name**, **current health**, **maximum**
 
-health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+**health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 #### Examples
 
@@ -268,7 +268,7 @@ Health: ||||||.....|
 
 Energy: ||||||||||.|
 
-
+ 
 
 **Input**
 
@@ -284,13 +284,13 @@ Bauser
 
 **Output** 
 
-
-
 Name: Bauser
 
 Health: ||||||||||||
 
 Energy: ||||||||||||
+
+ 
 
 **Input**
 
@@ -312,7 +312,7 @@ Health: |||||||||............|
 
 Energy: |||............|
 
-
+ 
 
 **Input** 
 
@@ -333,6 +333,8 @@ Name: Toad
 Health: |.....|
 
 Energy: |..........|
+
+ 
 
 #### Hints
 
